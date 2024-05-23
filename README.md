@@ -1,5 +1,6 @@
-# Course-master-work
-Код курсовой работы. Дорофеева Елена, 22МАГ-ИАД.
+# Выпускная квалификационная работа
+## Метрики близости изображений на основе всплесков и их применение
+Код магистерской работы. Дорофеева Елена, 22МАГ-ИАД.
 
 Изначально код создавался на сайте kaggle.com, поэтому прикладываю ссылки на код на этом сайте:
 
@@ -7,4 +8,4 @@
 
 Датасет ORL: https://www.kaggle.com/code/edorofeeva00/orl-10000
 
-Датасет TID2013: https://www.kaggle.com/code/edorofeeva00/tid2013
+Датасет MNIST: https://www.kaggle.com/code/edorofeeva00/mnist-semi-clustering
